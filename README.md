@@ -1,2 +1,3 @@
-# random-quote-generator
- this application makes random quotes
+# random quote generator
+
+this application makes random quotes
